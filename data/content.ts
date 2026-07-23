@@ -122,7 +122,7 @@ export const resumeHref = "/resume/swapnil-jain-resume.pdf";
 // Web3Forms access keys are public by design (they only allow sending TO you).
 // You can also override it without editing code via NEXT_PUBLIC_WEB3FORMS_KEY.
 export const web3formsAccessKey =
-  process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "YOUR_ACCESS_KEY_HERE"; // TODO: replace
+  process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "d1535441-1677-4377-a3fe-368b0a79d5cd";
 
 export const nav: NavLink[] = [
   { label: "About", href: "#about" },
